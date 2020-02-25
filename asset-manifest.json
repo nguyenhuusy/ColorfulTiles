@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ColorfulTiles/static/css/main.fcecc63c.chunk.css",
+    "main.js": "/ColorfulTiles/static/js/main.045d4cdc.chunk.js",
+    "main.js.map": "/ColorfulTiles/static/js/main.045d4cdc.chunk.js.map",
+    "runtime-main.js": "/ColorfulTiles/static/js/runtime-main.b2279f0e.js",
+    "runtime-main.js.map": "/ColorfulTiles/static/js/runtime-main.b2279f0e.js.map",
+    "static/js/2.aa2d4ea5.chunk.js": "/ColorfulTiles/static/js/2.aa2d4ea5.chunk.js",
+    "static/js/2.aa2d4ea5.chunk.js.map": "/ColorfulTiles/static/js/2.aa2d4ea5.chunk.js.map",
+    "index.html": "/ColorfulTiles/index.html",
+    "precache-manifest.f0c23ae462cc01e3e25b7fd44789310c.js": "/ColorfulTiles/precache-manifest.f0c23ae462cc01e3e25b7fd44789310c.js",
+    "service-worker.js": "/ColorfulTiles/service-worker.js",
+    "static/css/main.fcecc63c.chunk.css.map": "/ColorfulTiles/static/css/main.fcecc63c.chunk.css.map",
+    "static/js/2.aa2d4ea5.chunk.js.LICENSE": "/ColorfulTiles/static/js/2.aa2d4ea5.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2279f0e.js",
+    "static/js/2.aa2d4ea5.chunk.js",
+    "static/css/main.fcecc63c.chunk.css",
+    "static/js/main.045d4cdc.chunk.js"
+  ]
+}
