@@ -1,0 +1,40 @@
+.generate-form {
+  padding-bottom: 30px;
+  display:flex;
+  justify-content: center;
+  .button {
+    margin: 20px 10px 20px 0;
+    text-transform: uppercase;
+  }
+  &-left{
+    width:50%;
+  }
+  .history {
+    width:50%;
+    margin-left:20px;
+  }
+}
+.view_history {
+  text-decoration: none !important;
+  color: white;
+}
+h2 {
+  text-align: center;
+}
+.generate-form__buttons {
+  display:flex;
+  justify-content: center;
+  position: relative;
+}
+  .inputname {
+    position: absolute;
+    top: -102px;
+    left: 659px;
+    display: flex;
+    flex-direction: column;
+    background: whitesmoke;
+    padding: 10px;
+    align-items: center;
+}
+
+
